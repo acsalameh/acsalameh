@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Blockchain-Focused Full Stack Developer<br>💻 Tech: React, Next, Node.js | Solidity (Ethereum) | Laravel<br>🚀 Passionate about blockchain's transformative potential<br>🎓 BSc in Computer Science<br>🌟 Detail-oriented | Effective communicator | Time management<br>🌱 Plant Grower | 🥁 Drummer | 🏞️ Adventurer
+👋 Blockchain-Focused Full Stack Developer<br>💻 Tech: React, Next, Typescript, Node.js | Solidity (Ethereum) | Laravel<br>🚀 Passionate about blockchain's transformative potential<br>🎓 BSc in Computer Science<br>🌟 Detail-oriented | Effective communicator | Time management<br>🌱 Plant Grower | 🥁 Drummer | 🏞️ Adventurer
 
 
 ## 🌐 Socials:
